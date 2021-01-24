@@ -21,7 +21,7 @@ This project gets image input from user.
 And based on the training model script code from Teachable machine it classifies the input into rock or paper or scissor and the computer's input
 is genrated randomly.
 
-
+Based on the rules of the game 10 points are allocated for each win. 
 
 
 # demo vedio link - https://youtu.be/DLy_3Aj4BN0
