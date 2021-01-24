@@ -23,7 +23,12 @@ is genrated randomly.
 
 Based on the rules of the game 10 points are allocated for each win. 
 
+
+# demo vedio link - https://youtu.be/DLy_3Aj4BN0
+
 # Teachable machine is a very useful platform to create many such projects. 
+
+the resources are collected from https://github.com/seftimie/Rock-Paper-Scissors-with-Google-Teachable-Machine
 
 # Team member details:
 
