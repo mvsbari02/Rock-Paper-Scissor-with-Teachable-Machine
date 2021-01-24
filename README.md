@@ -4,7 +4,7 @@ With Teachable Machine
 
 # Hello everyone !
 
-This is a rock-paper-scissor game based on AI(artificial intelligence).
+This is a rock-paper-scissor game based on AI(artificial intelligence) .
 
 This is done with the help of #Techable Machine.
 
