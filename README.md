@@ -24,3 +24,10 @@ is genrated randomly.
 Based on the rules of the game 10 points are allocated for each win. 
 
 # Teachable machine is a very useful platform to create many such projects. 
+
+# Team member details:
+
+1. 19PA1A0580 - kOLLI bHARAT kUMAR
+2. 19PA1A0573 - kHANDAVALLI rEEMA sHARON
+3. 19PA1A05A0 - mANNEPALLI vENKATA sAI bHARGAV rAM
+
