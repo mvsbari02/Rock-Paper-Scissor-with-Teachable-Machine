@@ -24,7 +24,7 @@ is genrated randomly.
 Based on the rules of the game 10 points are allocated for each win. 
 
 
-# demo vedio link - https://youtu.be/DLy_3Aj4BN0
+# demo video link - https://youtu.be/DLy_3Aj4BN0
 
 # Teachable machine is a very useful platform to create many such projects. 
 
