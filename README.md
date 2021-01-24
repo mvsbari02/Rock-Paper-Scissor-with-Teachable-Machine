@@ -12,7 +12,6 @@ On teachable machine we can train with different image samples or audio samples 
 
 we can control the training on Teachable machine with advanced parameters like batch size, number of epochs, learning rate.
 
-It builds a very good model based on sample data given by us. We can get the training model js script code from it.
 
 # In this project
 
