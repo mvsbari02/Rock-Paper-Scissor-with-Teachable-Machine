@@ -22,6 +22,7 @@ And based on the training model script code from Teachable machine it classifies
 is genrated randomly.
 
 
+Based on the rules of the game 10 points are allocated for each win. 
 
 # demo video link - https://youtu.be/DLy_3Aj4BN0
 
