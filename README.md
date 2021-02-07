@@ -1,22 +1,22 @@
 # Rock-Paper-Scissor-with-Teachable-Machine
-With Teachable Machine
+A small game with Teachable Machine
 
 
 # Hello everyone !
 
 This is a rock-paper-scissor game based on AI(artificial intelligence) .
 
-This is done with the help of #Techable Machine.
+We make this possible by using Teaching Mchine.
 
-On teachable machine we can train with different image samples or audio samples or body postures.
+First we give enough samples to the Teaching Machine for training.
 
 we can control the training on Teachable machine with advanced parameters like batch size, number of epochs, learning rate.
 
-It builds a very good model based on sample data given by us. We can get the training model js script code from it.
+It gives an accurate model based on the samples given by us. Later, we get a javascript code.
 
 # In this project
 
-This project gets image input from user.
+This project gets image input from the player.
 
 And based on the training model script code from Teachable machine it classifies the input into rock or paper or scissor and the computer's input
 is genrated randomly.
@@ -33,6 +33,6 @@ This Web application is deployed using repl.it. link - https://RPS-1.bhargav001.
 
 # Team member details:
 
-1. 19PA1A0580 - kOLLI bHARAT kUMAR
+1. 19PA1A0580 - kOLLI bHARATH kUMAR
 2. 19PA1A0573 - kHANDAVALLI rEEMA sHARON
 
