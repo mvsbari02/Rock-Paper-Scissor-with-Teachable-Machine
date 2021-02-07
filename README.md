@@ -28,7 +28,7 @@ Based on the rules of the game 10 points are allocated for each win.
 
 # Teachable machine is a very useful platform to create many such projects. 
 
-the resources are collected from https://github.com/seftimie/Rock-Paper-Scissors-with-Google-Teachable-Machine
+the resources are collected from https://github.com/prof-rossetti/rock-paper-scissors-flask
 This Web application is deployed using repl.it. link - https://RPS-1.bhargav001.repl.co
 
 # Team member details:
