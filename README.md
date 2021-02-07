@@ -35,5 +35,4 @@ This Web application is deployed using repl.it. link - https://RPS-1.bhargav001.
 
 1. 19PA1A0580 - kOLLI bHARAT kUMAR
 2. 19PA1A0573 - kHANDAVALLI rEEMA sHARON
-3. 19PA1A05A0 - mANNEPALLI vENKATA sAI bHARGAV rAM
 
